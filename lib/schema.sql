@@ -1,7 +1,7 @@
 CREATE TABLE series (
-  id INTEGER PRIMARY KEY,
-  
-  );
+id INTEGER PRIMARY KEY,
+
+);
 
 CREATE TABLE sub_genre (
 );
